@@ -78,6 +78,8 @@ class MainApp extends StatelessWidget {
             child: FocusedTextWidget.fromString(
               text: _text,
               resizeFactor: 0.4,
+              autoPlay: true,
+              autoPlayDuration: const Duration(seconds: 3),
             ),
           ),
         ),
