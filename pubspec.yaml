@@ -1,7 +1,7 @@
 name: focused_text
 description: A text widget that focuses on a specific paragraph or phrase. Inspired by the lyrics view in Apple Music.
 # publish_to: 'https://pub.dev'
-version: 1.0.0
+version: 1.0.1
 repository: 'https://github.com/Dennisaurus-Rex/focused-text'
 issue_tracker: 'https://github.com/Dennisaurus-Rex/focused-text/issues'
 environment:
