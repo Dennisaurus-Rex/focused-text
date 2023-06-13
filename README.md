@@ -53,5 +53,5 @@ factory FocusedTextWidget.fromList({
 
 ## Sneak Peek
 
-|![Mouse Pointer](git/../gif/focused_text_mouse.gif)|![Auto Play](git/../gif/focused_text_auto.gif)|
+|![Mouse Pointer](https://github.com/Dennisaurus-Rex/focused-text/raw/main/gif/focused_text_mouse.gif)|![Auto Play](https://github.com/Dennisaurus-Rex/focused-text/raw/main/gif/focused_text_auto.gif)|
 |:---:|:---:|
